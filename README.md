@@ -7,13 +7,13 @@ For running any Rails command like `rails c` prepend the command with `docker co
 
 Examples:
 ```
-docker-compose run citcom rails c
+docker compose run citcom rails c
 ```
 ```
-docker-compose run citcom bin/rails db:migrate
+docker compose run citcom bin/rails db:migrate
 ```
 ```
-docker-compose run citcom bundle
+docker compose run citcom bundle
 ```
 
 ## Debugging
