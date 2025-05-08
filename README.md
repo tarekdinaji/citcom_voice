@@ -3,7 +3,7 @@
 ## To Run
 `docker compose up` will start up the server.
 
-For running any Rails command like `rails c` prepend the command with `docker-compose run ifl `
+For running any Rails command like `rails c` prepend the command with `docker compose run citcom`
 
 Examples:
 ```
